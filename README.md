@@ -1,11 +1,11 @@
-# Workshop pygame
+# 🐍 Workshop pygame 🏆
 
 ## Pourquoi utiliser pygame ?
 
 On peut faire beaucoup de choses avec pygame mais son utilité primaire reste le développement de jeux 2D (grâce à la bibliothèque Python). Mais qu’est ce qui fait la spécificité de cette librairie, l’ensemble des fonctions sont écrites dans le langage python et vont permettre de gérer l'affichage de décors (les images que tu auras choisie) dans une fenêtre, de gérer l'animation des décors avec toute une mécanique de gestion des collisions, de gérer aussi tout l’aspect multimédia (les sons par exemple) et surtout de gérer aussi les événements qui vont permettre d’interagir via un clavier, une souris, une manette, un joystick etc... L'avantage d’utiliser pygame est qu’on évite l'étape de coder toutes les fonctions qui permettent de gérer les aspects du jeu et on peut se concentrer sur le gameplay du jeu qu'il va falloir coder en Python.
  
 ## [Documentation officiel pygame](https://www.pygame.org/docs/)
-## Installation:
+## ⬇️ Installation:
 
 ### Afin d’installer pygame rapidement: ``` sudo dnf install python3-pygame  ```
 
